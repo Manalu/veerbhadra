@@ -1,0 +1,28 @@
+{
+  "name": "veerbhadra-app",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter ###################",
+  "main": "app-script.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.2.16",
+    "bootstrap-daterangepicker": "^2.1.25",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
